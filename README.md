@@ -1,9 +1,9 @@
-Rene here!
+This is a node.js presentation card. 
 
 # Usage
 
 ```bash
-npx renerrr
+Run: npx renerrr
 ```
 
 

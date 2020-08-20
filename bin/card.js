@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Rene Rodríguez /'),
   handle: chalk.cyan('renerrr'),
-  work: chalk.white('Web programmer'),
+  work: chalk.white('Web Programmer'),
   github: chalk.cyan('https://github.com/rene-mdd'),
   linkedin: chalk.cyan('https://www.linkedin.com/in/rené-rodríguez-rivera'),
   web: chalk.cyan('rene-rodriguez.com'),
@@ -32,7 +32,6 @@ const data = {
 const newline = '\n'
 const heading = `${data.name} ${data.handle}`
 const working = `${data.labelWork}  ${data.work}`
-const twittering = `${data.labelTwitter}  ${data.twitter}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
 const webing = `${data.labelWeb}  ${data.web}`
@@ -44,8 +43,6 @@ const output =
   newline +
   newline +
   working +
-  newline +
-  twittering +
   newline +
   githubing +
   newline +
