@@ -1,4 +1,4 @@
-This is a node.js presentation card. 
+This is my node.js presentation card. 
 
 # Usage
 
